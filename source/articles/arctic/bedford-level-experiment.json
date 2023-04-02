@@ -1,0 +1,16 @@
+{
+	"category": "Ice Wall",
+	"clean": "ice-wall",
+	"content": "<p>The figure of 24,900 miles is the diameter of the known world; the area which the light from the sun affects. Along the edge of our local area exists a massive 150 foot Ice Wall. The 150 foot Ice Wall is on the coast of Antarctica. The Ice Wall is a massive wall of ice that surrounds Antarctica. The shelf of ice is several hundred meters thick. This nearly vertical ice front to the open sea is more than 50 meters high above the water's surface. The Ice Wall was discovered by Sir James Clark Ross, a British Naval Officer and polar explorer who was among the first to venture to Antarctica in an attempt to determine the position of the South Magnetic Pole. Upon confronting the massive vertical front of of ice he famously remarked It was ... an obstruction of such character as to leave no doubt in my mind as to our future proceedings, for we might as well sail through the cliffs of Dover as to penetrate such a mass. It would be impossible to conceive a more solid-looking mass of ice; not the smallest appearance of any rent or fissure could we discover throughout its whole extent, and the intensely bright sky beyond it but too plainly indicated the great distance to which it reached southward. -- Sir James Clark Ross, Sir James Clark Ross and his expeditionary fleet sailed around the Ice Wall for a number of months in circumnavigation.</p>",
+	"description": "The figure of 24,900 miles is the diameter of the known world; the area which the light from the sun affects.",
+	"file": {},
+	"images": [],
+	"pdfs": [],
+	"questions": ["Has anyone ever been to the edge?"],
+	"references": ["https://wiki.tfes.org/The_Ice_Wall"],
+	"state": true,
+	"tags": ["Testing", ""],
+	"title": "The Ice Wall",
+	"topic": "Not sure",
+	"type": "Logic"
+}

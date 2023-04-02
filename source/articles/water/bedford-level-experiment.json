@@ -1,0 +1,16 @@
+{
+	"category": "Level",
+	"clean": "bedford-level-experiment",
+	"content": "<p>The Bedford Level experiment is a series of observations carried out along a six-mile (9.7 km) length of the Old Bedford River on the Bedford Level of the Cambridgeshire Fens in the United Kingdom, during the 19th and early 20th centuries, to measure the curvature of the Earth. Samuel Birley Rowbotham, who conducted the first observations starting in 1838, claimed he had proven the Earth to be flat. However, in 1870, after adjusting Rowbotham's method to avoid the effects of atmospheric refraction, Alfred Russel Wallace found a curvature consistent with a spherical Earth.[1]At the point chosen for all the experiments, the river is a slow-flowing drainage canal running in an uninterrupted straight line for a six-mile (9.7 km) stretch to the north-east of the village of Welney. This makes it an ideal location for a direct measurement of the curvature of the Earth, as Rowbotham wrote in Zetectic Astronomy:</p>",
+	"description": "At the point chosen for all the experiments, the river is a slow-flowing drainage canal running in an uninterrupted straight line for a six-mile (9.7 km) stretch to the north-east of the village of Welney.",
+	"file": {},
+	"images": [],
+	"pdfs": [],
+	"questions": ["What were the testing results"],
+	"references": ["https://en.wikipedia.org/wiki/Bedford_Level_experiment"],
+	"state": true,
+	"tags": ["Testing", ""],
+	"title": "The Bedford Level Experiment",
+	"topic": "Not sure",
+	"type": "Experiment"
+}

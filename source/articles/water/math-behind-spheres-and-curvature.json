@@ -1,0 +1,16 @@
+{
+	"category": "Level",
+	"clean": "math-behind-spheres-and-curvature",
+	"content": "<p>The Earth's radius (r) is 6371 km or 3959 miles, based on numbers from Wikipedia, which gives a circumference (c)of c = 2 * π * r = 40 030 km. We wish to find the height (h) which is the drop in curvature over the distance (d). Using the circumference we find that 1 kilometer has the angle 360° / 40 030 km = 0.009°. The angle (a) is then a = 0.009° * distance (d). The derived formula h = r * (1 - cos a) is accurate for any distance (d).</p>",
+	"description": "The Earth's radius (r) is 6371 km or 3959 miles, based on numbers from Wikipedia.",
+	"file": {},
+	"images": [],
+	"pdfs": [],
+	"questions": ["How does this apply to an oblate spheroid?"],
+	"references": ["https://en.wikipedia.org/wiki/Bedford_Level_experiment"],
+	"state": true,
+	"tags": ["Tag A", "Tag B", "Tag C"],
+	"title": "The Math Behind Spheres And Curvature",
+	"topic": "Not sure",
+	"type": "Logic"
+}
